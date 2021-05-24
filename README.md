@@ -1,0 +1,2 @@
+# AthenaReads
+Developed a computerized MIS to provide a user-friendly, Graphical User Interface (GUI) based integrated and centralized environment for MIS activities. The proposed system maintained all the records generated the required reports and information when required. It also identified the critical operation procedure and possibilities of simplification using modern IT tools and practices. Developed using Java and SQL.
